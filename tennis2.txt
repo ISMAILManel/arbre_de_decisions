@@ -1,4 +1,0 @@
-Ciel        Temperature Humidite   Vent
-Ensoleillé      30        90      Faible
-Couvert         25        70      Fort
-Pluie           15        86      Fort
